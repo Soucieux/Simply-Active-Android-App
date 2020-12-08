@@ -1,0 +1,87 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Simply Active</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_main">main</string>
+    <string name="title_activity_newAccount">newAccount</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Simply Active</string>
+    <string name="nav_header_subtitle">Not Applicable</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log out</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Activity Search</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="menu_map">Nearby Activities</string>
+    <string name="navigation_bar">navigationBar</string>
+    <string name="search">Search</string>
+    <string name="menu_search">menu_search</string>
+    <!-- Login Page -->
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_userEmail">Email address not valid</string>
+    <string name="invalid_password">Password must be >8 characters</string>
+    <string name="empty_password">Enter password</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_username_label">Email</string>
+    <string name="login_password_label">Password</string>
+    <string name="createNewAccount">Create new account</string>
+    <string name="action_sign_up">Sign Up with only 1 step</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="invalid_userName">Please enter your name</string>
+    <!-- Welcome Page -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeLabel">Welcome to</string>
+    <string name="nameLabel">Simply Active</string>
+    <string name="slogan">Your Personal Exercise Assistant</string>
+    <string name="logInOrSignUp">Sign In / Sign up for FREE</string>
+    <string name="guest">Want to try it out first? No worries!</string>
+    <string name="guestLogIn">Continue as guest</string>
+    <string name="action_guestSignIn">Sign In</string>
+    <!-- Settings Titles -->
+    <string name="securityHeader">Security</string>
+    <!-- Security Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- New account -->
+    <string name="newAccountTitle">Tell us about you</string>
+    <string name="newAccountTitleExtra">Your information is safe with us. Guaranteed.</string>
+    <string name="newAccountNameLabel">Name</string>
+    <string name="newAccountEmailLabel">Email</string>
+    <string name="newAccountActivityLabel">What are your favourites? (Optional)</string>
+    <string name="newAccountButton">Let\'s get started!</string>
+    <string name="goBackToLogin"><u>Already have an account?</u></string>
+    <!-- Home -->
+    <string name="weatherAPIurl">https://api.openweathermap.org/data/2.5/weather?q=</string>
+    <string name="weatherAPIkey">30a5c6361df186b883b3821bbe2a3915</string>
+    <string name="weatherMessage">Hello, today is a nice day to go outside!</string>
+    <string name="weatherTemperature">20°C</string>
+    <string name="weatherPictureDescription">Icon showing the weather today</string>
+    <string name="defaultDate">December 7th, 2020</string>
+    <string name="recommendationMessage">Based on your profile, you may like the following activities:</string>
+    <string name="hiking">HIKING</string>
+    <string name="swimming">SWIMMING</string>
+    <string name="tennis">TENNIS</string>
+    <string name="first_box">FIRST_BOX</string>
+    <string name="second_box">SECOND_BOX</string>
+    <string name="third_box">THIRD_BOX</string>
+    <!-- Preference -->
+    <string name="prefButtonText">Save</string>
+    <!-- Profile -->
+    <string name="ProfileName">Name</string>
+    <string name="ProfileAge">Age</string>
+    <string name="ProfileAddress">Address</string>
+    <string name="ProfileGender">Gender</string>
+    <string name="profile_personal_info_header">About you</string>
+    <string name="valueNotSet">Not Set</string>
+    <string name="ProfileEmail">Email</string>
+    <string name="resetButtonText">Reset</string>
+</resources>
