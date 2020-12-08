@@ -1,2 +1,0 @@
-Start working on retrieving data from firebase.
-Users who logged in do not need to login again when closing the app unless they logout.

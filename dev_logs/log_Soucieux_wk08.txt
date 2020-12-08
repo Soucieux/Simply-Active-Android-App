@@ -1,2 +1,0 @@
-Fully implement user registration page.
-New user email and password now will be saved in firebase.

@@ -1,2 +1,0 @@
-start working on creating user registration page.
-User can choose to register at login page.

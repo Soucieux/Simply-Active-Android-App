@@ -1,3 +1,0 @@
-Started learning about places API, google API, geolocation APIs.
-
-Worked on some of the writeup and the diagrams provided for in D2 submission.

@@ -1,3 +1,0 @@
-Redirect to login fragment when logout.
-Dynamically display settings based on whether user logged in or not.
-Continue as guest can let user go to home page without logging in.

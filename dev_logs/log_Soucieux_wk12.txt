@@ -1,3 +1,0 @@
-allow anonymous login for users dont want to login.
-Users need to verify their email when registered.
-Implement part of profile page.

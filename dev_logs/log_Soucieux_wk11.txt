@@ -1,2 +1,0 @@
-Modify login page to only accept users who registered.
-If login successful, retrieve user info and display on main page.

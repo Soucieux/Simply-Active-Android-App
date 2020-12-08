@@ -1,2 +1,0 @@
-Initial implementation on realtime database to store user related info.
-Retrieve user info when logged in.
